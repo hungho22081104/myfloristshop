@@ -1,0 +1,13 @@
+.info.hotline{
+    padding: 15px 0;
+    background: #000;
+    color: rgb(229, 237, 237);
+}
+
+.infoHeader.hasborder{
+    border-right: 1px #fff solid;
+}
+
+.infoHeader.noborder{
+    padding-left: 15px;
+}
